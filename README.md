@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Java,react**
+- 💬 Ask me about **C++,Java,react**
 
 - 📫 How to reach me **dhruvjaggi271@gmail.com**
 
